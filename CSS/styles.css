@@ -1,0 +1,22 @@
+body
+{
+  background-color:#F9F9F9;
+}
+hr
+{
+/* height: 1px; */
+/*  border-style: none;[ displays no border]*/
+width: 5%; /* Using % instead of px ,it makes flesxible to see the website*/
+border-style:none; /* it will deactivate the border presence*/
+border-bottom: dotted; /* Activates only bottom of the border*/
+border-width: 2px;
+border-color: grey;}
+h3
+{
+  color:#39A2DB;
+  /*background-color: #CDF0EA;*/
+}
+h1
+{
+    color:#39A2DB;
+}
